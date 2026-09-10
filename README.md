@@ -1,7 +1,7 @@
 # Inteligencia Artificial Aplicada
 
-**Estudiante:** {tu nombre completo}
-**Carrera:** {Arquitectura / Ingeniería en Ciberseguridad}
+**Estudiante:** {Michel Alejdandro Guzman Gomez}
+**Carrera:** {Ingeniería en Ciberseguridad}
 **Cuatrimestre:** Primero
 **Periodo:** 2026
 
