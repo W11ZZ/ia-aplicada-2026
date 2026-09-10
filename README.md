@@ -1,6 +1,6 @@
 # Inteligencia Artificial Aplicada
 
-**Estudiante:** {Michel Alejdandro Guzman Gomez}
+**Estudiante:** {Michel Alejandro Guzman Gomez}
 **Carrera:** {Ingeniería en Ciberseguridad}
 **Cuatrimestre:** Primero
 **Periodo:** 2026
