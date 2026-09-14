@@ -1,7 +1,7 @@
 # Inteligencia Artificial Aplicada
 
-**Estudiante:** {Michel Alejandro Guzman Gomez}
-**Carrera:** {Ingeniería en Ciberseguridad}
+**Estudiante:** Michel Alejandro Guzmán Gómez
+**Carrera:** Ingeniería en Ciberseguridad
 **Cuatrimestre:** Primero
 **Periodo:** 2026
 
@@ -13,4 +13,4 @@
 
 ## Declaración de uso de IA
 
-En este repositorio documento cuándo y cómo uso herramientas de IA generativa en cada entrega.
+Semana 1: se hizo uso de gemini, chatgpt y deepseek en los temas que se solicitó usarse cada herramienta, de igual manera se utilizó gemini para la conversion de tablas a markdown
