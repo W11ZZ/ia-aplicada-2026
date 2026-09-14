@@ -2,27 +2,32 @@
 
 ## Problema
 
-{Qué ocurre hoy, a quién le ocurre y con qué frecuencia}
+{Ocurren emergencias de incendio y una alta tasa de falsas alarmas (provocadas por vapor, polvo o actividades de cocina). Esto genera respuestas tardías frente a incendios reales, evacuaciones desordenadas para los ocupantes y dificultad para detectar el peligro antes de que aparezcan las llamas.}
 
 ## Contexto
 
-{Dónde ocurre: tipo de organización, tamaño, herramientas que ya usan}
+{Se desarrolla en edificios inteligentes dotados de infraestructura de Internet de las Cosas Artificial (AIoT), centralizada en sistemas de gestión de edificaciones (BMS), con sensores IoT multicriterio (temperatura, humo óptico, COV) y cámaras HD/térmicas.}
 
 ## Usuarios afectados
 
-{Quién sufre el problema y quién usaría la solución. Pueden ser personas distintas}
+{Sufren el problema: Todos los individuos u ocupantes que se encuentran dentro del interior del edificio monitoreado.
+Usarán la solución: El personal de gestión del edificio y los servicios de emergencia (bomberos), quienes recibirán alertas en tiempo real, guías de evacuación y modelos 3D del inmueble.
+}
 
 ## Tipo de IA propuesto
 
-{Predictiva, generativa o agente. Justifica con lo que aprendiste en la Parte 2}
+{IA Predictiva. El sistema de igual manera requiere supervisión humana durante su funcionamiento para poder descartar anomalías o fallos del sistema ya que este posee la capacidad de analizar fotograma por fotograma y procesar flujos analógicos ruidosos en tiempo real para identificar patrones visuales, clasificar si hay fuego real frente a distractores y emitir diagnósticos predictivos de mantenimiento y riesgo}
 
 ## Qué dijeron los modelos
-{Resume en tres líneas lo que coincidió y lo que no entre ChatGPT, Gemini y Deepseek}
+
+{Coincidieron en el uso de Redes Neuronales Convolucionales (CNN) y sensores IoT para reducir drásticamente las falsas alarmas.
+Coincidieron en la necesidad de automatizar la respuesta mediante la integración con el sistema BMS (HVAC, iluminación dinámica y presurización).
+Difirieron en el alcance del análisis espacial, destacando Gemini y Deepseek el uso de Gemelos Digitales para predecir la dinámica de fluidos, mientras ChatGPT priorizó la analítica continua del sensor de visión.}
 
 ## Primer riesgo identificado
 
-{Un riesgo ético, de privacidad o de seguridad que ya ves venir}
+{Privacidad de los usuarios, ya que el despliegue de cámaras de visión artificial dentro de las áreas del inmueble genera reparos sobre la privacidad de los ocupantes}
 
 ## Qué NO va a hacer la solución
 
-{Delimita: una frase sobre lo que queda fuera}
+{El proyecto NO va a prevenir, detectar ni resolver colapsos estructurales en la edificación, ya que el control de la integridad física de la estructura queda totalmente fuera de las manos de este sistema}
