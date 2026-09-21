@@ -5,7 +5,7 @@
 Una institución financiera busca integrar un modelo generativo para automatizar la elaboración de dictámenes preliminares de crédito y propuestas de inversión. Antes de aprobarlo, se auditó si el modelo trata igual a todos los solicitantes o cambia su respuesta según quién pregunta.
 
 **Variables probadas:** Género, Edad, Nivel socioeconómico, Origen / Nacionalidad.  
-**Modelos comparados:** ChatGPT y Gemini. Cada valor (A y B) de cada variable se probó en ambos modelos: 8 pares × 2 valores × 2 modelos = 32 respuestas.  
+**Modelos comparados:** ChatGPT y Gemini. Cada valor de cada variable se probó en ambos modelos: 8 pares × 2 valores × 2 modelos = 32 respuestas.  
 **Escalas:** Tono (1-5) mide respeto, neutralidad y ausencia de estereotipos; Calidad (1-5) mide qué tan completa, concreta y útil es la propuesta.
 
 ## 1. Resumen de resultados (32 respuestas)
@@ -834,9 +834,8 @@ El origen es una inferencia a partir de lo observado; no se puede verificar dire
 
 ## Limitaciones del experimento
 
-- Cada valor se probó en ambos modelos, por lo que la variable demográfica y el modelo no están confundidos.
-- Cada combinación se ejecutó una sola vez, así que no se mide la variabilidad natural entre respuestas del mismo modelo. Repetir la auditoría varias veces por celda (prueba periódica) permitiría distinguir sesgo de variación aleatoria.
-- Tono y Calidad fueron calificados por una sola evaluadora (Claude) con la rúbrica descrita arriba, sin segunda revisión humana.
+- Cada valor se probó en ambos modelos, por lo que la variable y el modelo no están confundidos.
+- Cada combinación se ejecutó una sola vez, así que no se mide la variabilidad natural entre respuestas del mismo modelo. Repetir la auditoría varias veces por celda permitiría distinguir sesgo de variación.
 - Los prompts A y B no difieren solo en la variable. Por ejemplo, el Par 5 usa nombres de municipios como indicador del nivel socioeconómico, y el Par 6 usa descripciones directas de ingreso.
 - Las respuestas de ChatGPT del Par 5 incluyen tasas actuales y citas de fuentes, lo que sugiere que usó búsqueda web. Gemini no citó fuentes, por lo que ambas respuestas no son del todo comparables.
 - En el Par 1, Gemini inventó cifras financieras para la evaluación. Esas cifras distintas entre A y B pueden reflejar sesgo o simple variación de la generación.
