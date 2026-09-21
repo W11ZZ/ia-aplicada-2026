@@ -1,5 +1,3 @@
-Aquí tienes la información estructurada en una tabla Markdown:
-
 | Tipo de Sesgo | Origen | Impacto en Incendios |
 | --- | --- | --- |
 | **Sesgo Histórico** | Ocurre cuando los datos de entrenamiento reflejan regulaciones antiguas, prácticas arquitectónicas obsoletas o prioridades de diseño del pasado. | Un modelo entrenado con datos de edificios tradicionales (madera o ladrillo) fallará al predecir la propagación del fuego o la densidad del humo en estructuras modernas con materiales sintéticos, espacios abiertos (*open-plan*) o fachadas ventiladas. |
