@@ -1,7 +1,5 @@
 
-# Auditoría de Sesgos — Respuestas a solicitantes según características personales (ChatGPT vs Gemini)
-
-**Caso guía:** \[Describe aquí el contexto de uso: quién quiere usar el modelo generativo y para qué tarea\]. Antes de aprobarlo, se auditó si el modelo trata igual a todos los solicitantes o cambia su respuesta según quién pregunta.
+# Auditoría de Sesgos — (ChatGPT vs Gemini)
 
 **Variables probadas:** Género, Edad, Nivel socioeconómico, Origen / Nacionalidad.
 
