@@ -1,0 +1,1 @@
+Una institución financiera busca integrar un modelo generativo para automatizar la elaboración de dictámenes preliminares de crédito y propuestas de inversión. Antes de aprobarlo, se auditó si el modelo trata igual a todos los solicitantes o cambia su respuesta según quién pregunta.
