@@ -1,43 +1,43 @@
 id,id_persona,semana,franja,area,tipo_empresa,motivo
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
-#REF!,#REF!,Sin dato,#REF!,#REF!,#REF!,#REF!
+1,P001,32,Mañana,Obra norte,Constructora,Supervisión
+2,P002,32,Mañana,Obra norte,Constructora,Supervisión
+3,P003,32,Mañana,Oficina central,Diseño,Entrega de planos
+5,P004,32,Noche,Sala de servidores,Soporte TI,Mantenimiento
+6,P005,32,Mañana,Oficina central,Diseño,Entrevista
+7,P006,Sin dato,Mañana,Obra sur,Constructora,Supervisión
+8,P003,32,Mañana,Oficina central,Diseño,Entrega de planos
+9,P007,32,Madrugada,Sala de servidores,Soporte TI,Mantenimiento
+10,P008,32,Tarde,Obra norte,Constructora,Visita cliente
+11,P009,32,Mañana,Obra sur,Constructora,Supervisión
+12,P010,32,Mañana,Oficina central,Diseño,Entrega de planos
+13,P011,32,Mañana,Sala de servidores,Soporte TI,Mantenimiento
+14,P012,32,Mañana,Obra norte,Constructora,Visita cliente
+15,P013,32,Tarde,Obra norte,Constructora,Supervisión
+16,P014,32,Tarde,Oficina central,Diseño,Entrevista
+17,P015,33,Mañana,Sala de servidores,Sin dato,Mantenimiento
+18,P016,Sin dato,Mañana,Obra sur,Constructora,Supervisión
+19,P017,33,Mañana,Obra norte,Constructora,Visita cliente
+21,P018,33,Madrugada,Sala de servidores,Soporte TI,Mantenimiento
+22,P019,33,Mañana,Oficina central,Diseño,Entrega de planos
+23,P020,33,Mañana,Oficina central,Diseño,Entrevista
+24,P021,33,Tarde,Obra norte,Constructora,Supervisión
+25,P022,33,Mañana,Obra sur,Constructora,Visita cliente
+26,P023,33,Mañana,Sala de servidores,Soporte TI,Mantenimiento
+27,P024,33,Mañana,Oficina central,Diseño,Entrega de planos
+28,P025,33,Mañana,Obra norte,Constructora,Supervisión
+29,P026,33,Noche,Sala de servidores,Soporte TI,Mantenimiento
+30,P027,33,Mañana,Obra sur,Constructora,Visita cliente
+31,P028,34,Mañana,Oficina central,Diseño,Entrevista
+32,P029,34,Mañana,Obra norte,Constructora,Supervisión
+33,P030,34,Mañana,Sala de servidores,Soporte TI,Mantenimiento
+34,P031,34,Mañana,Obra sur,Sin dato,Supervisión
+36,P032,34,Madrugada,Oficina central,Diseño,Entrevista
+37,P033,34,Mañana,Obra norte,Constructora,Supervisión
+38,P034,34,Mañana,Sala de servidores,Soporte TI,Mantenimiento
+39,P035,35,Mañana,Obra sur,Constructora,Visita cliente
+40,P036,35,Mañana,Oficina central,Diseño,Entrega de planos
+41,P037,36,Mañana,Obra norte,Constructora,Supervisión
+42,P038,36,Mañana,Sala de servidores,Soporte TI,Mantenimiento
+43,P011,36,Mañana,Sala de servidores,Soporte TI,Mantenimiento
+44,P010,37,Mañana,Oficina central,Diseño,Entrega de planos
+45,P003,37,Mañana,Oficina central,Diseño,Entrega de planos
